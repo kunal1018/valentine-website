@@ -1,17 +1,20 @@
 # ⚛️ React + TypeScript + Vite
+# 💌 Be My Valentine 
 
-A minimal and fast frontend boilerplate using **React**, **TypeScript**, and **Vite** — built for performance and developer experience.
+A fun and heartfelt project built using **React**, **TypeScript**, and **Vite**, created to ask someone special to be my Valentine in a creative and interactive way.
 
 ## 🛠️ Tech Stack
 
 - **React** – Modern UI library for building interactive user interfaces  
-- **TypeScript** – Typed superset of JavaScript for better code quality and developer tooling  
-- **Vite** – Lightning-fast build tool and dev server with HMR (Hot Module Replacement)  
+- **TypeScript** – Typed superset of JavaScript for better code quality and tooling  
+- **Vite** – Lightning-fast build tool with Hot Module Replacement  
 - **ESLint** – Code linting with customizable rules  
-- **SWC** or **Babel** – For fast refresh (configurable with Vite plugins)
+- **SWC** or **Babel** – For fast refresh (configurable via Vite plugins)
 
 ## 📦 Project Features
 
-- ⚡ Fast development with hot reloading
-- ✅ ESLint setup for clean code
+- 💗 Playful "Yes/No" interaction with animations  
+- 🎨 Clean and minimal styling  
+- ⚡ Fast development and performance with Vite  
+- ✅ ESLint setup for clean code  
 - 📁 Organized project structure
